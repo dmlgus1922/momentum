@@ -33,4 +33,3 @@ if (savedUsername == null) {
     // show the greetings
     paintGreeting();
 }
-console.log(savedUsername);
